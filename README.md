@@ -14,7 +14,7 @@ A deep learning model trained on the CIFAR-10 dataset using Convolutional Neural
 
 🔹 **Files:**  
 - `CIFAR-10.ipynb`: Standard CIFAR-10 training script  
-- `CIFAR-10 (with brownies).ipynb`: Extended version with additional experiments  
+- `CIFAR-10 (with brownies).ipynb`: Extended version with additional optimizations  
 
 ---
 
