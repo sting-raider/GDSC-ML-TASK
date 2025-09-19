@@ -1,6 +1,6 @@
-# **GDSC ML TASK** 
+# **AI ML PROJECT** 
 
-This repository contains two machine learning projects as part of the **Google Developer Student Club (GDSC) AI/ML Round 2**. The tasks focus on **deep learning (CIFAR-10 classification)** and **retrieval-augmented generation (RAG) using LangChain**.
+This repository contains two machine learning projects. The tasks focus on **deep learning (CIFAR-10 classification)** and **retrieval-augmented generation (RAG) using LangChain**.
 
 ## **Task A: CIFAR-10 Image Classification**  
 A deep learning model trained on the CIFAR-10 dataset using Convolutional Neural Networks (CNNs).  
